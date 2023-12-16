@@ -1,11 +1,10 @@
-####  Deshboard of help desk
+####  Dashboard of help desk
 
 ![image](helpdesk1.png)
 
-## Deshbord 
 
 ## Status
-It show status of tickets . In the helpdesk app  4 status are avaliable.
+It show status of tickets . In the helpdesk app  4 status are avaliable. In the image show three status because we have not set ticket status as closed till now.
 1. Open
 2. Replied
 3. Resolved
@@ -14,7 +13,7 @@ It show status of tickets . In the helpdesk app  4 status are avaliable.
 ## New Tickets
 New tickets show the digital record created by customers or team members with in a date. 
 
-For example yesterday i create 2 tickets it show two and tommorow i create 3 tickets.
+For example yesterday i create 2 tickets it show two and today i create 3 tickets.
 
 
 ## Type
@@ -25,9 +24,10 @@ Agents can quickly get up to speed with what’s on their do for the day.
 
 ## Priority
 It show the priority of tickets. avaliable priorities Medium,Low, High, Urgent.
-
+```sh
 In a medium solve the ticket in 3 days.
 In a Low solve the tickets in 5 days .
 In a High solve the tickets in 2 days.
 In a urgent solve the tickets in 2 days.
 
+```
