@@ -2,9 +2,7 @@
 
 ![image](helpdesk1.png)
 
-####  Deshboard of help desk
 
-![image](d1.png)
 
 ## Status
 It show status of tickets . In the helpdesk app  4 status are avaliable.
