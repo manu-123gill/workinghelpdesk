@@ -24,10 +24,13 @@ Agents can quickly get up to speed with what’s on their do for the day.
 
 ## Priority
 It show the priority of tickets. avaliable priorities Medium,Low, High, Urgent.
-```sh
+
 In a medium solve the ticket in 3 days.
-In a Low solve the tickets in 5 days .
+
+In a Low solve the tickets in 5 days.
+
 In a High solve the tickets in 2 days.
+
 In a urgent solve the tickets in 2 days.
 
-```
+
