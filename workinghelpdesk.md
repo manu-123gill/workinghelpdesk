@@ -14,6 +14,8 @@ It show status of tickets . In the helpdesk app  4 status are avaliable.
 ## New Tickets
 New tickets show the digital record created by customers or team members with in a date. 
 
+For example yesterday i create 2 tickets it show two and tommorow i create 3 tickets.
+
 
 ## Type
 It show the types of tickets. here types are Bug,incident, question, unspecofied.
